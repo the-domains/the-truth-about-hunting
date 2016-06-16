@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5683978
+  lightness: 0.8995703
+  brandStrength: 0.82116
+  brandColors:
+    - '#0B0A08'
+    - '#D4D7E6'
+    - '#B0B8CD'
+    - '#403830'
+    - '#857A6F'
+  rhythmicContrast: 0.1263262
+typography_spectrum: 0.07572501
+name: The Truth About Hunting
