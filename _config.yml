@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.07572501
 color:
-  saturation: 0.697637
+  saturation: 1
   brandStrength: 0.82116
-  lightness: 0.8909774
+  lightness: 1
   brandColors:
     - '#F7FEF7'
     - '#4AC2FF'
     - '#2041EE'
     - '#201D08'
     - '#9B6525'
-  rhythmicContrast: 0.3045112
-typography_spectrum: 0.07572501
+  rhythmicContrast: 1
 layout_spectrum: 1
 name: The Truth About Hunting
