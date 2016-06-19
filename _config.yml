@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.07572501
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0.82116
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#F7FEF7'
     - '#4AC2FF'
     - '#2041EE'
     - '#201D08'
     - '#9B6525'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
+typography_spectrum: 0.07572501
 layout_spectrum: 1
 name: The Truth About Hunting
